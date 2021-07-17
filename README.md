@@ -3,7 +3,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=koussayb" alt="koussayb" /> </p>
 
-- 🔭 I’m currently working on web site **Vente en ligne**
+- 🔭 I’m currently learning **javascript and react**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
